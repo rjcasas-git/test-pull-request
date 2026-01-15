@@ -1,1 +1,1 @@
-this is an example file on master branch
+conflicting change
